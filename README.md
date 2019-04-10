@@ -23,8 +23,3 @@ Langkah 3
 Untuk membuat virtual environtment, kita klik file -> new project -> Pure python -> klik new environment using . lihat gambar dibawah ini.
 
 # ![E](https://user-images.githubusercontent.com/46699723/55847384-447e3800-5b73-11e9-8ebc-9d237169f060.jpg)# uaspy-master
-# uaspy-311810375
-# uaspy-311810375
-# uaspy-311810375
-# uasdaud
-# uasdaud
