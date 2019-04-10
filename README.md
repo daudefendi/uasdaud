@@ -2,10 +2,6 @@
 
 silakan tuliskan langkah-langkah disertai screenshotnya
 
-# UAS Bahasa Pemrograman 1
-
-silakan tuliskan langkah-langkah disertai screenshotnya
-
 Langkah 1
 # FORK
 Caranya kita klik pada kolom Branch lalu setelah terbuka klik fork. lihat gambar berikut :
