@@ -31,3 +31,4 @@ Untuk membuat virtual environtment, kita klik file -> new project -> Pure python
 # uaspy-311810375
 # uaspy-311810375
 # uasdaud
+# uasdaud
